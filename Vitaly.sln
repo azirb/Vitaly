@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vitaly", "Vitaly\Vitaly.vcxproj", "{0BF3B3E1-1281-41BF-BB27-65429967F799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BF3B3E1-1281-41BF-BB27-65429967F799}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0BF3B3E1-1281-41BF-BB27-65429967F799}.Debug|Win32.Build.0 = Debug|Win32
+		{0BF3B3E1-1281-41BF-BB27-65429967F799}.Release|Win32.ActiveCfg = Release|Win32
+		{0BF3B3E1-1281-41BF-BB27-65429967F799}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80CADE29-F20D-411D-B6C3-111F16E2ED54}
+	EndGlobalSection
+EndGlobal
